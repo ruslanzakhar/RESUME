@@ -68,6 +68,14 @@ body {
     margin: 100px 50px; */
 }
 
+.projects_link{
+  margin-left: 80px;
+}
+
+.projectsd_link{
+  margin-left: 86px;
+}
+
 .title {
   font-style: normal;
   font-weight: 700;
@@ -113,13 +121,7 @@ body {
 
 /* work styles */
 
-.work {
-  /* padding: 100px 40px 50px 20px;
 
-    padding: 100px;
-
-    padding: 100px 50px; */
-}
 
 .work_position {
   font-style: normal;
@@ -345,28 +347,14 @@ body {
   line-height: 24px;
 }
 
-/* join-in */
 
-.join-in-box {
-  /* margin-left: 40px; */
-}
+
 
 .join-title {
   margin-left: 40px;
 }
 
-/* .join-in-title {
-  margin-left: 40px;
-  color: #ffffff;
-  text-decoration: none;
-  text-align: left;
-  margin-bottom: 20px;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
 
-} */
 
 .join-in-list {
   display: flex;
@@ -409,6 +397,15 @@ body {
 .join-in-link {
   background-position: center;
   fill: #ffffff;
+  margin: 0;
+  padding: 0;
+  width: 20px;
+  height: 20px;
+}
+
+.in-link{
+  background-position: center;
+  fill: #000000;
   margin: 0;
   padding: 0;
   width: 20px;
