@@ -72,9 +72,10 @@ body {
   margin-left: 80px;
 }
 
-.projectsd_link{
-  margin-left: 86px;
+.leef{
+  margin-left: 90px;
 }
+
 
 .title {
   font-style: normal;
@@ -419,3 +420,8 @@ body {
 } */
 
 /* the end */
+.links_git{
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+text-decoration: none;
+}
